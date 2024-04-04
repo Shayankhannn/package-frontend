@@ -1,0 +1,76 @@
+.section-package-main{
+    padding: 80px 0;
+}
+
+.section-package-main-inner{
+    padding: 20px;
+    border-radius: 20px;
+    background:url(bg.webp);
+    /* border-radius: 10px; */
+    color: white;
+    background-size: cover;
+}
+
+
+.section-package-main-inner-items ul li{
+    font-size: 18px;
+}
+
+.section-package-main-inner-btn{
+    padding: 30px 0;
+}
+
+.section-package-main-inner-btn .btn-1{
+    background-color: red;
+    padding: 17px 40px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.section-package-main-inner-btn .btn-1:hover{
+
+    background-color: transparent;
+    border: 2px solid red;
+    transition: ease 0.4s;
+}
+
+.section-package-main-inner-btn .btn-2:hover{
+
+    background-color: transparent;
+    background-color:  red;
+    transition: ease 0.4s;
+    border: none;
+}
+
+.section-package-main-inner-btn .btn-2{
+    background-color: transparent;
+    border: 2px solid  #fff;
+    padding: 17px 40px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+
+.section-package-main-inner-text{
+    padding-top: 20px ;
+}
+
+.section-package-main-inner-text h4{
+    font-weight: 700;
+    font-size: 23px;
+    padding-bottom: 20px;
+}
+.section-package-main-inner-text h1{
+    font-weight: 700;
+    font-size: 60px;
+}
+.section-package-main-inner-text{
+    text-align: center;
+}
+
+.section-package-main-2{
+    /* display: flex; */
+    justify-content: center;
+}
